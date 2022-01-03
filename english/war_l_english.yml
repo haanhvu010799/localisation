@@ -1,0 +1,12 @@
+﻿l_english: 
+ ST:0 ""
+ ND:0 ""
+ RD:0 ""
+ TH:0 ""
+ WAR_NAME:0 "$ORDER$Chiến tranh $FIRST$-$SECOND$"
+ CIVIL_WAR_NAME:0 "$ORDER$Nội Chiến $SECOND$"
+ WAR_TAKE_CORE_NAME:0 "$ORDER$$FIRST$ Khai hóa $STATE$"
+ WAR_TAKE_CLAIM_NAME:0 "$ORDER$$FIRST$ Xâm lược $STATE$"
+ WAR_NAME_ITA_ETH:0 "Chiến tranh Italy ở Ethiopia"
+ INDEPENDENCE_WAR_NAME:0 "$ORDER$$FIRST$ War of Independence"
+ create_puppet_wargoal_usa:0 "Mục tiêu chiến tranh §HBù nhìn (Trọng tâm)§! đạt được bởi §Y[ROOT.GetNameDef]§!"
