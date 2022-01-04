@@ -50,7 +50,7 @@
  group_infantry_title:0 "Tiểu đoàn Bộ binh"
  group_mobile_title:0 "Tiểu đoàn Cơ động"
  group_armor_title:0 "Tiểu đoàn Thiết giáp"
- group_support_title:1 "Đại đội Hỗ trợ"
+ group_support_title:1 "Đại đội tiếp vận"
  NEW_GROUP_ADDITIONAL_COST:0 "Nhóm mới $VALUE|H0$£army_experience£"
  GARRISONS:0 "Lực lượng Đồn trú"
  GARRISONS_DESC:1 "§YLực lượng Đồn trú§!\n§TĐặt mức độ ưu tiên cho trang bị sẽ đến lực lượng đồn trú§!"
